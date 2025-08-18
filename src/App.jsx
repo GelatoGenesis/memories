@@ -6,9 +6,8 @@ const photoNotes = {
   16: "Vanaema (isa ema)",
   19: "2. juuni 1979 a.\nAsti juubel.",
   29: "10. aastane Toivo\n1955",
-  34: "Sünnipäevad:\nLeida 1. okt,\nJuhan 25. jaan.\nEndla 19. nov.\nElene 13. dets.\nIlse 14. märts\nDaimi 2. aprill\nKoort 7. veebr.\nUdomut 2. juuni\nLiide ema 3. märts\nMursak 14. juuni",
   39: "Tiiu, Küllike ja Jaanika. Aprill 1976",
-  43: "Tiina? ja ?\n4. dets. 1943"
+  43: "Siina ja Lembit\n4. dets. 1943"
 }
 
 function Gallery() {
